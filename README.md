@@ -1,6 +1,7 @@
 # crowd_pedestrian_sim
 
 .. code-block::
+
     This is a crowd simulator based on Social force model for pedestrian dynamics
     as proposed by 
     Dirk Helbing and Péter Molnár
