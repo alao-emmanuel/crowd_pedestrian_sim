@@ -6,6 +6,6 @@
     Phys. Rev. E 51, 4282
 
 <p align="center">
-  <img width=400 height=400 src="https://github.com/alao-emmanuel/crowd_pedestrian_sim/blob/main/docs/sfmwallrepulsiveforce.gif">
+  <img width=400 height=300 src="https://github.com/alao-emmanuel/crowd_pedestrian_sim/blob/main/docs/sfmwallrepulsiveforce.gif">
 </p>
 ![Alt text](https://github.com/alao-emmanuel/crowd_pedestrian_sim/blob/main/docs/sfmwallrepulsiveforce.gif)
