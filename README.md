@@ -1,4 +1,8 @@
 # crowd_pedestrian_sim
+Social Force Model
+==================
+
+.. code-block::
 
     This is a crowd simulator based on Social force model for pedestrian dynamics
     as proposed by 
